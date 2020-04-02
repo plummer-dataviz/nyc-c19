@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nyc-c19/static/css/main.ae638dc1.chunk.css",
+    "main.js": "/nyc-c19/static/js/main.dc0133b4.chunk.js",
+    "main.js.map": "/nyc-c19/static/js/main.dc0133b4.chunk.js.map",
+    "runtime-main.js": "/nyc-c19/static/js/runtime-main.cbc58c19.js",
+    "runtime-main.js.map": "/nyc-c19/static/js/runtime-main.cbc58c19.js.map",
+    "static/js/2.43aca185.chunk.js": "/nyc-c19/static/js/2.43aca185.chunk.js",
+    "static/js/2.43aca185.chunk.js.map": "/nyc-c19/static/js/2.43aca185.chunk.js.map",
+    "index.html": "/nyc-c19/index.html",
+    "precache-manifest.50af1b45946c244acce9653561a4cfa2.js": "/nyc-c19/precache-manifest.50af1b45946c244acce9653561a4cfa2.js",
+    "service-worker.js": "/nyc-c19/service-worker.js",
+    "static/css/main.ae638dc1.chunk.css.map": "/nyc-c19/static/css/main.ae638dc1.chunk.css.map",
+    "static/js/2.43aca185.chunk.js.LICENSE.txt": "/nyc-c19/static/js/2.43aca185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc58c19.js",
+    "static/js/2.43aca185.chunk.js",
+    "static/css/main.ae638dc1.chunk.css",
+    "static/js/main.dc0133b4.chunk.js"
+  ]
+}
